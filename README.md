@@ -7,9 +7,11 @@ Simple project of perceptron model made for more understanding of neural network
   <img src="https://i.imgur.com/fIjWSAX.png">
 </p>
 
+<p aling="center">
 Input a | Input b | Expected output
 -----|-----|-----
 0.1 | 0.1 | 0.2
 0.2 | 0.4 | 0.6
 0.5 | 0.5 | 1.0
 0.7 | 0.2 | 0.9
+</p>
